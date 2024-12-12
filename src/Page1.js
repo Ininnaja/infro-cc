@@ -7,7 +7,6 @@ import Buttonn from './component/Buttonn';
 import Footer from './component/Footer';
 
 
-
 function Page1() {
   return (
     <div className="App">
@@ -18,7 +17,7 @@ function Page1() {
         <Content 
         mainHeading="พี่ๆน้องๆคนไหนสนใจเกี่ยวกับเกม Esport รบกวนทำแบบสอบถามของทางชุมนุมให้หน่อยนะครับ แล้วพบกันเร็วๆนี้ รอติดตามได้เลยค้าบบ"
         subHeading1="เงื่อนไขเพิ่มเติม"
-        subHeading2="1) จัดหา Team นักเเข่ง 5-6 คน"
+        subHeading2="1) จัดหา Team นักเเข่ง 5-7 คน"
         subHeading3="2) มีเงินรางวัลให้กับผู้ชนะมูลค่ารวม 3000 บาท"
         subHeading4="3) เข้ารวมฟรี"
         subHeading5="4) สามารถนำอุปกรณ์ส่วนตัวเข้ามาใช้รวมการเเข่งได้"
